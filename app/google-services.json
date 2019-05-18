@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019036873456",
+    "firebase_url": "https://networking-f35ec.firebaseio.com",
+    "project_id": "networking-f35ec",
+    "storage_bucket": "networking-f35ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019036873456:android:436d3a0f25d33250",
+        "android_client_info": {
+          "package_name": "com.example.networking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019036873456-n5k912ig8nr3gvb951oab36oeh090j8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.networking",
+            "certificate_hash": "b2f5359ebcaae7c3eaff94534f568fdc8937f7eb"
+          }
+        },
+        {
+          "client_id": "1019036873456-rmrts43kindn6fcdfig93kbg2f6f4sf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIbJOtKDdSJzstMUFcptpDb1o9QNGx4Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019036873456-rmrts43kindn6fcdfig93kbg2f6f4sf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
